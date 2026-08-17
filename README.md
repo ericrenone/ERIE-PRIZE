@@ -4,6 +4,12 @@
 
 ---
 
+<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/5efb1152-a9b6-4b37-9605-7676e56dd0e4" />
+
+
+
+---
+
 ## EPIGRAPH
 
 "The prestige system rewards breakthroughs in well-bounded problems. But the mortality occurs in unbounded ones."
