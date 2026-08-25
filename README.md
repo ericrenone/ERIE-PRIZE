@@ -1107,5 +1107,3 @@ The **ERIE Prize forged at TraxNYC** is more than a medal. It is:
 > *"The prestige system rewards breakthroughs in well-bounded problems. But the mortality occurs in unbounded ones."*  
 > — **Institutional analysis, August 2026**
 
-> *"We don’t just make jewelry. We make history. And today, history’s got a new name: ERIE."*  
-
