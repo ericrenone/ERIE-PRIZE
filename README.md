@@ -1102,32 +1102,6 @@ The **ERIE Prize forged at TraxNYC** is more than a medal. It is:
 3. **A Catalyst for Change**: The **$10 million grant** and **TraxNYC Fellowship** will fund the next generation of wicked problem-solvers.
 4. **A Viral Moment**: The **livestreamed forging** and **celebrity-backed unveiling** ensure the ERIE Prize’s message reaches **millions worldwide**.
 
----
-
-## **8. How to Participate**
-
-### **8.1 For Nobel Laureates**
-
-- **Surrender your medal** for the ERIE Prize by contacting **TraxNYC** or the **ERIE Prize Foundation**.
-- **Join the ceremony** in NYC and be part of history.
-
-### **8.2 For the Public**
-
-- **Watch the livestream** of the forging and unveiling on **TraxNYC’s social media**.
-- **Nominate a problem-solver** for the inaugural ERIE Prize.
-- **Purchase a replica ERIE pendant** (proceeds fund real-world initiatives).
-
-### **8.3 For the Press**
-
-- **Request access** to the forging event.
-- **Interview Trax, the laureates, or the ERIE Prize team**.
-
----
-
-## **9. Contact**
-
-- **TraxNYC**: \[Contact via Instagram (@TraxNYC) or official website\].
-- **ERIE Prize Foundation**: \[Hypothetical contact; to be established\].
 
 ---
 
@@ -1135,4 +1109,4 @@ The **ERIE Prize forged at TraxNYC** is more than a medal. It is:
 > — **Institutional analysis, August 2026**
 
 > *"We don’t just make jewelry. We make history. And today, history’s got a new name: ERIE."*  
-> — **Trax (Maksud Agadjani), Founder of TraxNYC**
+
